@@ -40,7 +40,7 @@ if __name__ == "__main__":
                             axes_labels=(r"$E_f -E_{vbm}$ (eV)",r"$E^{q}_{form}$ (eV)"), \
                             xaxis = (-1,Eg+0.01), \
                             yaxis = (-5,5),
-                            show_min=False)
+                            show_min=True)
      plt.draw()
      plt.pause(0.001)
      input("Press [enter] to continue") 
