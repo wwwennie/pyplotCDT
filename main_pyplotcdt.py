@@ -38,7 +38,7 @@ if __name__ == "__main__":
      plotter = defect_plot(list_lambdas, \
                             title=r"$\miu_{O}$",
                             axes_labels=(r"$E_f -E_{vbm}$ (eV)",r"$E^{q}_{form}$ (eV)"), \
-                            xaxis = (0,Eg+0.01), \
+                            xaxis = (-1,Eg+0.01), \
                             yaxis = (-5,5),
                             show_min=False)
      plt.draw()

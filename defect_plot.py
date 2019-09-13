@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-def defect_plot(list_lambdas,title="",axes_labels=("",""),xaxis=(0,10),yaxis=(-10,-10),
+def defect_plot(list_lambdas,title="",axes_labels=("",""),xaxis=(-1,10),yaxis=(-10,-10),
              show_legend=False,show_min=True,symm_surf=True,labels=[]):
     """
     Function for plotting defect formation energies of a defect
