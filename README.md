@@ -10,3 +10,5 @@ where <img src="/tex/361c1512ad7b9f8ea68f8ef47bef9f59.svg?invert_in_darkmode&san
 For details of the theory, see [10.1103/RevModPhys.86.253](https://link.aps.org/doi/10.1103/RevModPhys.86.253)
 
 See example_fig.png for demo.
+
+![](./example_fig.png)
